@@ -1,1 +1,0 @@
-# learn3dg.github.io
