@@ -40,7 +40,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>
-      This workshop aims to bring together researchers working on 3D computer vision and graphics for eCommerce, with a focus on the three topics: (1) 3D object/scene modeling and understanding in 3D eCommerce such as semantic segmentation, affordance and motion, multi-view reconstruction; (2) human modeling and fashion in 3D eCommerce such as virtual try-ons and personalized fashion recommendation, and (3) language-assisted reasoning such as shape/scene synthesis from texts and language grounding in 3D models. We invited 6 keynote speakers from academia and 3 talks from industry experts. We will also host a a challenge on 3D part labeling for 3D models from real products sold online.
+      This workshop aims to bring together researchers working on 3D computer vision and graphics for eCommerce, with a focus on the three topics: (1) 3D object/scene modeling and understanding in 3D eCommerce such as semantic segmentation, affordance and motion, multi-view reconstruction; (2) human modeling and fashion in 3D eCommerce such as virtual try-ons and personalized fashion recommendation, and (3) language-assisted reasoning such as shape/scene synthesis from texts and language grounding in 3D models. We invited 6 keynote speakers from academia and 3 talks from industry experts. We will also host a challenge on 3D part labeling for 3D models from real products sold online.
      <!--This workshop aims to bring together researchers working on generative models of 3D shapes and scenes with researchers and practitioners who use these generative models in a variety of research areas. For our purposes, we define "generative model" to include methods that synthesize geometry unconditionally as well as from sensory inputs (e.g. images), language, or other high-level specifications. Vision tasks that can benefit from such models include scene classification and segmentation, 3D reconstruction, human activity recognition, robotic visual navigation, question answering, and more.-->
     </p>
   </div>
@@ -299,7 +299,7 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>Release of train and validation sets</td>
-          <td>May 10 2023</td>
+          <td>May 15 2023</td>
         </tr>
         <tr>
           <td>Release of test set</td>
