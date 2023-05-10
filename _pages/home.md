@@ -306,11 +306,11 @@ acknowledgements: ""
           <td>July 15 2023</td>
         </tr>
         <tr>
-          <td>Submission Deadline</td>
+          <td>Submission deadline</td>
           <td>Sep 1 2023</td>
         </tr>
         <tr>
-          <td>Workshop Date</td>
+          <td>Workshop date</td>
           <td>Oct 2 2023</td>
         </tr>
       </tbody>
