@@ -617,7 +617,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>
-      Thanks to <span style="color:#1a1aff;font-weight:400;"> <a href="https://visualdialog.org/">visualdialog.org</a></span> for the webpage format.
+      We thank <span style="color:#1a1aff;font-weight:400;"> <a href="https://www.guillaum.in/~matthieu/">Matthieu Guillaumin</a></span> for his assistance in data uploading and for driving the ABO dataset release! We thank <span style="color:#1a1aff;font-weight:400;"> <a href="https://visualdialog.org/">visualdialog.org</a></span> for the webpage format.
     </p>
   </div>
 </div>
