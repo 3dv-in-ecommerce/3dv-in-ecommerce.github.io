@@ -194,7 +194,7 @@ acknowledgements: ""
   <div class="col-md-12">
     <a href="https://geometry.stanford.edu/member/guibas/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/guibas.jpg" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://geometry.stanford.edu/member/guibas/">Leonidas Guibas</a></b> Professor and Head of the Geometric Computation group at Stanford, which produces many seminal and influential works in 3D geometry understanding and modeling.
+      <b><a href="https://geometry.stanford.edu/member/guibas/">Leonidas Guibas</a></b> Paul Pigott Professor of Computer Science and Electrical Engineering at Stanford University. He heads the Geometric Computation group in the Computer Science Department. He works on algorithms for sensing, modeling, reasoning, rendering, and acting on the physical world. More recently, he has focused on shape analysis and computer vision using deep neural networks.
     </p>
   </div>
 </div><br>
@@ -203,7 +203,7 @@ acknowledgements: ""
   <div class="col-md-12">
     <a href="https://people.cs.uchicago.edu/~ranahanocka/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/rana.jpg" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://people.cs.uchicago.edu/~ranahanocka/">Rana Hanocka</a></b> Assistant Professor at the University of Chicago working on 3D shape modeling and animation with a particular interest in learning with less supervision.
+      <b><a href="https://people.cs.uchicago.edu/~ranahanocka/">Rana Hanocka</a></b> Assistant Professor of Computer Science at the University of Chicago. She directs 3DL, a group of enthusiastic researchers passionate about 3D, machine learning, and visual computing. She obtained her Ph.D. in 2021 from Tel Aviv University under the supervision of Daniel Cohen-Or and Raja Giryes. Her research is focused on building artificial intelligence for 3D data, spanning the fields of computer graphics, machine learning, and computer vision.
     </p>
   </div>
 </div><br>
@@ -212,7 +212,7 @@ acknowledgements: ""
   <div class="col-md-12">
     <a href="https://ps.is.mpg.de/~black"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/black.jpeg" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://ps.is.mpg.de/~black">Michael Black</a></b> Founding director at the Max Planck Institute for Intelligent Systems, best known for his work on human motion and shape estimation; An entrepreneur (Body Labs spun out of his group was acquired by Amazon).
+      <b><a href="https://ps.is.mpg.de/~black">Michael Black</a></b> Honorary Professor at the University of Tuebingen and one of the founding directors at the Max Planck Institute for Intelligent Systems in Tübingen, Germany, where he leads the Perceiving Systems department. He was also a Distinguished Amazon Scholar (VP, 2017-2021). Black's research interests in computer vision include optical flow estimation, 3D shape models, human shape and motion analysis, robust statistical methods, and probabilistic models of the visual world. Black co-founded he co-founded Body Labs Inc., which commercialized 3D body model technology, and was acquired by Amazon.com in 2017.
     </p>
   </div>
 </div><br>
@@ -221,7 +221,7 @@ acknowledgements: ""
   <div class="col-md-12">
     <a href="https://www.cs.umd.edu/~lin/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/lin.jpeg" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://www.cs.umd.edu/~lin/">Ming Lin</a></b> Distinguished University Professor at the University of Maryland College Park; Research findings have been patented and licensed by more than 50 companies world-wide including works on clothed body reconstruction and simulation. She is also with Amazon Fashion.
+      <b><a href="https://www.cs.umd.edu/~lin/">Ming Lin</a></b> Distinguished University Professor and former Elizabeth Stevinson Iribe Chair of Computer Science at the University of Maryland College Park. Her research interests include computational robotics, haptics, physically-based modeling, virtual reality, sound rendering, and geometric computing. She has (co-)authored more than 300 refereed publications in these areas and co-edited/authored four books. Many of Lin’s research findings have been patented and licensed by more than 50 companies world wide. Lin is an Amazon Scholar with Amazon Fashion.
     </p>
   </div>
 </div><br>
@@ -230,7 +230,7 @@ acknowledgements: ""
   <div class="col-md-12">
     <a href="https://roozbehm.info/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/roozbeh.jpeg" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://roozbehm.info/">Roozbeh Mottaghi</a></b> Research Scientist Manager at Meta and Affiliate Associate Prof. at the University of Washington working on Vision-and-Language and Embodied AI.
+      <b><a href="https://roozbehm.info/">Roozbeh Mottaghi</a></b> Research Scientist Manager at Meta and Affiliate Associate Prof. at the University of Washington working on Vision-and-Language and Embodied AI. Prior to joining FAIR, he was the Research Manager of the PRIOR team at the Allen Institute for AI. Before that, I was a Postdoctoral Researcher in the Computer Science Department at Stanford University. He was a post-doctoral researcher at the Computer Science Department at Stanford University. He obtained his PhD in Computer Science from University of California, Los Angeles.
     </p>
   </div>
 </div><br>
@@ -239,7 +239,7 @@ acknowledgements: ""
   <div class="col-md-12">
     <a href="https://www.cs.cmu.edu/~katef/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/katef.png" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://www.cs.cmu.edu/~katef/">Katerina Fragkiadaki</a></b> Assistant Professor at CMU working on language grounding for 3D scenes.
+      <b><a href="https://www.cs.cmu.edu/~katef/">Katerina Fragkiadaki</a></b> Assistant Professor in the Machine Learning Department at Carnegie Mellon University. She received her Ph.D. from the University of Pennsylvania and was a postdoctoral fellow at UC Berkeley and Google research after that.  Her work is on learning visual representations with little supervision and combining spatial reasoning in deep visual learning. Her group develops algorithms for mobile computer vision,  learning of physics, and common sense for agents that move around and interact with the world.
     </p>
   </div>
 </div><br>
@@ -248,7 +248,7 @@ acknowledgements: ""
   <div class="col-md-12">
     <a href="https://www.linkedin.com/in/eric-bennett-2664a817"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/eric.jpeg" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://www.linkedin.com/in/eric-bennett-2664a817">Eric Bennett</a></b> Director of Science at Amazon Imaging; Leading the research and development of cutting-edge solutions for the creation of 3D models using ML, CV, photogrammetry, and more to bring new immersive experiences to Amazon's customers.
+      <b><a href="https://www.linkedin.com/in/eric-bennett-2664a817">Eric Bennett</a></b> Director of Science at Amazon Imaging. Bennett leads the research and development of cutting-edge solutions for the creation of 3D models using ML, CV, photogrammetry, and more to bring new immersive experiences to Amazon's customers. He obtained his Ph.D. in Computer Science from University of North Carolina at Chapel Hill.
     </p>
   </div>
 </div><br>
@@ -257,7 +257,7 @@ acknowledgements: ""
   <div class="col-md-12">
     <a href="https://itamarbe.github.io/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/itamar.jpeg" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://itamarbe.github.io/">Itamar Berger</a></b> Computer Vision Engineering Manager at Snap; Developing products for improving the Augmented Reality-based online shopping experiences.
+      <b><a href="https://itamarbe.github.io/">Itamar Berger</a></b> Computer Vision Engineering Manager at Snap. His team develops products for improving the Augmented Reality experiences using Deep Learning and Generative AI for SnapAR. Before Snap, he co-founded a statup in the field of real-time motion capture and was a R&D manager at Autodesk.
     </p>
   </div>
 </div><br>
@@ -266,7 +266,7 @@ acknowledgements: ""
   <div class="col-md-12">
     <a href="https://www.researchgate.net/profile/Chengfei-Lv"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/chengfei.jpeg" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://www.researchgate.net/profile/Chengfei-Lv">Chengfei Lv</a></b> Head of Alibaba's 3D/XR Technology Department; Working on 3D/XR technologies specific to eCommerce, such as 3D reconstruction of commodities, high-performing volumetric video for MR, and 3D modeling and rendering engines.
+      <b><a href="https://www.researchgate.net/profile/Chengfei-Lv">Chengfei Lv</a></b> Head of Alibaba's 3D/XR Technology Department. His team works on 3D/XR technologies specific to eCommerce, such as 3D reconstruction of commodities, high-performing volumetric video for MR, and 3D modeling and rendering engines, responsible for exploring innovative consumer applications for immersive experiences.
     </p>
   </div>
 </div><br>
