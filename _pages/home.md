@@ -282,7 +282,7 @@ acknowledgements: ""
       <span style="font-weight:500;">Call for particpations:</span> The workshop will host a competition focused on fine-grained semantic segmentation of 3D shapes. The competition will use 3D models from five categories (chair, table, cabinet, lamp, and bed) from the Amazon-Berkeley-Object (ABO) dataset, which has a total of 3400 models. The ABO dataset, recently published, features high quality, uniformly standard 3D models of real products sold online, created by artists. The models are made up of build-aware connected components, which form the basis of various shape properties such as texture, motion, function, interaction, and construction. The workshop challenge focuses on assigning fine-grained semantic labels (e.g., leg and arm, defined based on PartNet) to these connected components in the ABO dataset. 
     </p>
     <p>
-      <span style="font-weight:500;">Submission site:</span> TBD
+      <span style="font-weight:500;">Submission site:</span> <a href="https://eval.ai/web/challenges/challenge-page/2027/overview" target="_blank">https://eval.ai/web/challenges/challenge-page/2027/overview</a>
     </p>
   </div>
 </div>
@@ -299,19 +299,19 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>Release of train and validation sets</td>
-          <td>May 15 2023</td>
+          <td>June 01, 2023</td>
         </tr>
         <tr>
           <td>Release of test set</td>
-          <td>July 15 2023</td>
+          <td>July 30, 2023</td>
         </tr>
         <tr>
           <td>Submission deadline</td>
-          <td>Sep 1 2023</td>
+          <td>Aug 15, 2023</td>
         </tr>
         <tr>
           <td>Workshop date</td>
-          <td>Oct 2 2023</td>
+          <td>Oct 02, 2023</td>
         </tr>
       </tbody>
     </table>
