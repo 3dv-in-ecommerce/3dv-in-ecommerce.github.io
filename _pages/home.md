@@ -571,7 +571,7 @@ acknowledgements: ""
 
 <hr>
 
-<h2>Advisory Board</h2>
+<h2>Senior Organizers</h2>
 <div class="row text-center">
   <div class="col-xs-2">
     <a href="https://lorisbaz.github.io/">
