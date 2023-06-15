@@ -307,7 +307,7 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>Submission deadline</td>
-          <td>Aug 15, 2023</td>
+          <td>Aug 28, 2023</td>
         </tr>
         <tr>
           <td>Workshop date</td>
