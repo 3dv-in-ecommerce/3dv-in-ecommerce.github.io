@@ -107,22 +107,17 @@ acknowledgements: ""
           <td></td>
         </tr>
         <tr>
-          <td>11:30am - 11:40am</td>
-          <td>Coffee break</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>11:40am - 12:00pm</td>
+          <td>11:30am - 12:00pm</td>
           <td>Invited student paper presentations</td>
           <td></td>
         </tr>
         <tr>
           <td>12:00pm - 1:30pm</td>
-          <td>Lunch break and invited poster presentations</td>
+          <td>Lunch break</td>
           <td></td>
         </tr>
         <tr>
-          <td>1:40pm - 2:00pm</td>
+          <td>1:30pm - 2:00pm</td>
           <td>Winner presentations of the challenge</td>
           <td></td>
         </tr>
