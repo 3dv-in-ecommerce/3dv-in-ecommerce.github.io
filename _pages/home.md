@@ -126,7 +126,7 @@ acknowledgements: ""
           <td>
           Invited Talk 5 (Roozbeh Mottaghi)
           <br/>
-          <i>Title: TBD</i>
+          <i>Title: Habitat 3.0: A Co-Habitat for Humans, Avatars, and Robots</i>
           </td>
           <td></td>
         </tr>
