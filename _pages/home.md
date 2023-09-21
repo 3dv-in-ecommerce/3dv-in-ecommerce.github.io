@@ -108,7 +108,14 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>11:30am - 12:00pm</td>
-          <td>Invited student paper presentations</td>
+          <td>Invited student paper presentations
+          <br/>
+          <i>HAL3D: Hierarchical Active Learning for Fine-Grained 3D Part Labeling</i> (Fenggen Yu) <br/>
+          <i>TriCoLo: Trimodal Contrastive Loss for fine-grained Text to Shape Retrieval</i> (Yiming Zhang) <br/>
+          <i>Improving Unsupervised Visual Program Inference with Code Rewriting Families</i> (Aditya Ganeshan) <br/>
+          <i>Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior</i> (Junshu Tang) <br/>
+          <i>D-IF: Uncertainty-aware Human Digitization via Implicit Distribution Field</i> (Xueting Yang)
+          </td>
           <td></td>
         </tr>
         <tr>
