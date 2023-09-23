@@ -16,6 +16,7 @@ acknowledgements: ""
     <center><h1>3D Vision and Modeling Challenges in eCommerce</h1></center>
     <center><h2>ICCV 2023 Workshop</h2></center>
     <center><span style="font-weight:400;">October 2, 2023 @ Paris, France</span></center>
+    <center><span style="font-weight:400;">Room E06, Paris Convention Center</span></center>
     <center><span style="color:#e74c3c;font-weight:400;"></span></center>
     <br/>
   </div>
@@ -71,7 +72,7 @@ acknowledgements: ""
           <td>
           Invited Talk 1 (Leonidas Guibas)
           <br/>
-          <i>Title: TBD</i>
+          <i>Title: Compositional Object Modeling: Parts, Language, and Functionality</i>
           </td>
           <td></td>
         </tr>
@@ -111,7 +112,7 @@ acknowledgements: ""
           <td>Invited student paper presentations
           <br/>
           <i>HAL3D: Hierarchical Active Learning for Fine-Grained 3D Part Labeling</i> (Fenggen Yu) <br/>
-          <i>TriCoLo: Trimodal Contrastive Loss for fine-grained Text to Shape Retrieval</i> (Yiming Zhang) <br/>
+          <i>TriCoLo: Trimodal Contrastive Loss for fine-grained Text to Shape Retrieval</i> (Angel Chang) <br/>
           <i>Improving Unsupervised Visual Program Inference with Code Rewriting Families</i> (Aditya Ganeshan) <br/>
           <i>Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior</i> (Junshu Tang) <br/>
           <i>D-IF: Uncertainty-aware Human Digitization via Implicit Distribution Field</i> (Xueting Yang)
