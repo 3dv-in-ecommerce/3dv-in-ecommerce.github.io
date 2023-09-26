@@ -166,7 +166,7 @@ acknowledgements: ""
           <td>
           Industry Talk 2 (Itamar Berger from Snap)
           <br/>
-          <i>Title: TBD</i>
+          <i>Title: Snap to Fit: AR Try-on in Snapchat</i>
           </td>
           <td></td>
         </tr>
