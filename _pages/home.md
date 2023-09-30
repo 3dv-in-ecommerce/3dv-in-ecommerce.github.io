@@ -81,7 +81,7 @@ acknowledgements: ""
           <td>
           Invited Talk 2 (Rana Hanocka)
           <br/>
-          <i>Title: TBD</i>
+          <i>Title: Data-Driven Shape Editing without 3D Data</i>
           </td>
           <td></td>
         </tr>
