@@ -157,7 +157,7 @@ acknowledgements: ""
           <td>
           Industry Talk 1 (Eric Bennett from Amazon)
           <br/>
-          <i>Title: TBD</i>
+          <i>Title: Scaling 3D eCommerce Innovations <br/> A 10,000 Meter View on Building Durable 3D Content Creation Algorithms for Growth</i>
           </td>
           <td></td>
         </tr>
