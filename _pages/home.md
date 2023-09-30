@@ -143,7 +143,7 @@ acknowledgements: ""
           <td>
           Invited Talk 6 (Katerina Fragkiadaki)
           <br/>
-          <i>Title: TBD</i>
+          <i>Title: Few-Shot 3D Segmentation using Memory-Prompted Analogy-Forming Transformers</i>
           </td>
           <td></td>
         </tr>
