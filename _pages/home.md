@@ -14,11 +14,11 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <center><h1>3D Vision and Modeling Challenges in eCommerce</h1></center>
-    <center><h2>ICCV 2023 Workshop</h2></center>
-    <center><span style="font-weight:400;">October 2, 2023 @ Paris, France</span></center>
-    <center><span style="font-weight:400;">Room E06, Paris Convention Center</span></center>
+    <center><h2>ECCV 2024 Workshop</h2></center>
+    <center><span style="font-weight:400;">Sep 29, 2023 @ Milan, Italy</span></center>
+    <center><span style="font-weight:400;">Room TBD, MiCo Milano Convention Center</span></center>
     <center><span style="color:#e74c3c;font-weight:400;"></span></center>
-    <br/>
+    <br />
   </div>
 </div>
 
@@ -46,7 +46,11 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>
-      This workshop aims to bring together researchers working on 3D computer vision and graphics for eCommerce, with a focus on the three topics: (1) 3D object/scene modeling and understanding in 3D eCommerce such as semantic segmentation, affordance and motion, multi-view reconstruction; (2) human modeling and fashion in 3D eCommerce such as virtual try-ons and personalized fashion recommendation, and (3) language-assisted reasoning such as shape/scene synthesis from texts and language grounding in 3D models. We invited 6 keynote speakers from academia and 3 talks from industry experts. We will also host a challenge on 3D part labeling for 3D models from real products sold online.
+      This workshop aims to bring together researchers working on 3D computer vision and graphics for eCommerce, with a focus on the three topics: 
+      (1) 3D shape/scene understanding and generation e.g. semantic segmentation, affordance and motion, multi-view reconstruction; 
+      (2) Digital human and fashion e.g. virtual try-ons and personalized fashion recommendation;
+      (3) Foundation-model-assisted reasoning e.g. shape/scene synthesis from texts, language grounding in 3D models and diffusion-based 3D generative models.
+      We invited 6 keynote speakers from academia and 3 talks from industry experts. 
      <!--This workshop aims to bring together researchers working on generative models of 3D shapes and scenes with researchers and practitioners who use these generative models in a variety of research areas. For our purposes, we define "generative model" to include methods that synthesize geometry unconditionally as well as from sensory inputs (e.g. images), language, or other high-level specifications. Vision tasks that can benefit from such models include scene classification and segmentation, 3D reconstruction, human activity recognition, robotic visual navigation, question answering, and more.-->
     </p>
   </div>
@@ -56,7 +60,7 @@ acknowledgements: ""
 <div class="row" id="schedule">
   <div class="col-xs-12">
     <h2>Schedule</h2>
-    <p>All times in Paris Time (UTC+02:00)</p>
+    <p>All times in Italy Time (UTC+02:00)</p>
   </div>
 </div>
 
@@ -71,122 +75,90 @@ acknowledgements: ""
           <td></td>
         </tr>
         <tr>
-          <td>9:00am - 9:35am</td>
+          <td>9:00am - 9:20am</td>
           <td>
-          Invited Talk 1 (Leonidas Guibas)
-          <br/>
-          <i>Title: Compositional Object Modeling: Parts, Language, and Functionality</i>
+          Invited Talk 1 (Christian Theobalt)
+          <br />
+          <i>Title: TBD</i>
           </td>
           <td></td>
         </tr>
         <tr>
-          <td>9:35am - 10:10am</td>
+          <td>9:20am - 9:40am</td>
           <td>
-          Invited Talk 2 (Rana Hanocka)
-          <br/>
-          <i>Title: Data-Driven Shape Editing without 3D Data</i>
+          Invited Talk 2 (Angjoo Kanazawa)
+          <br />
+          <i>Title: TBD</i>
           </td>
           <td></td>
         </tr>
         <tr>
-          <td>10:10am - 10:20am</td>
-          <td>Coffee break</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>10:20am - 10:55am</td>
+          <td>9:40am - 10:00am</td>
           <td>
-          Invited Talk 3 (Michael Black)
-          <br/>
-          <i>Title: Implicit, Explicit, Real, and Synthetic: Spinning the Virtual Fashion Flywheel</i>
+          Invited Talk 3 (Ira Kemelmacher-Shlizerman)
+          <br />
+          <i>Title: TBD</i>
           </td>
           <td></td>
         </tr>
         <tr>
-          <td>10:55am - 11:30am</td>
-          <td>Invited Talk 4 (Ming Lin)
-          <br/>
-          <i>Title: Dynamics-Inspired Learning-based Virtual Try-On</i>
+          <td>10:00am - 10:20am</td>
+          <td>Invited Talk 4 (Justus Thies)
+          <br />
+          <i>Title: TBD</i>
           </td>
           <td></td>
         </tr>
         <tr>
-          <td>11:30am - 12:00pm</td>
-          <td>Invited student paper presentations
-          <br/>
-          <i>HAL3D: Hierarchical Active Learning for Fine-Grained 3D Part Labeling</i> (Fenggen Yu) <br/>
-          <i>TriCoLo: Trimodal Contrastive Loss for fine-grained Text to Shape Retrieval</i> (Angel Chang) <br/>
-          <i>Improving Unsupervised Visual Program Inference with Code Rewriting Families</i> (Aditya Ganeshan) <br/>
-          <i>Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior</i> (Junshu Tang) <br/>
-          <i>D-IF: Uncertainty-aware Human Digitization via Implicit Distribution Field</i> (Xueting Yang)
-          </td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>12:00pm - 1:30pm</td>
-          <td>Lunch break</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>1:30pm - 2:00pm</td>
-          <td>Winner presentations of the challenge</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>2:00pm - 2:35pm</td>
+          <td>10:20am - 10:40am</td>
           <td>
-          Invited Talk 5 (Roozbeh Mottaghi)
-          <br/>
-          <i>Title: Habitat 3.0: A Co-Habitat for Humans, Avatars, and Robots</i>
+          Invited Talk 5 (Hadar Averbuch-Elor)
+          <br />
+          <i>Title: TBD</i>
           </td>
           <td></td>
         </tr>
         <tr>
-          <td>2:35pm - 3:10pm</td>
+          <td>10:40am - 11:00am</td>
           <td>
-          Invited Talk 6 (Katerina Fragkiadaki)
-          <br/>
-          <i>Title: 3D Part Segmentation and Reconstruction with Little or No Training</i>
+          Invited Talk 6 (Chuang Gan)
+          <br />
+          <i>Title: TBD</i>
           </td>
           <td></td>
         </tr>
         <tr>
-          <td>3:10pm - 3:20pm</td>
-          <td>Coffee break</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>3:20pm - 3:45pm</td>
+          <td>11:00am - 11:20am</td>
           <td>
-          Industry Talk 1 (Eric Bennett from Amazon)
-          <br/>
-          <i>Title: Scaling 3D eCommerce Innovations <br/> A 10,000 Meter View on Building Durable 3D Content Creation Algorithms for Growth</i>
+          Industry Talk 1 (Aleix Martinez from Amazon)
+          <br />
+          <i>Title: TBD</i>
           </td>
           <td></td>
         </tr>
         <tr>
-          <td>3:45pm - 4:10pm</td>
+          <td>11:20am - 11:40am</td>
           <td>
-          Industry Talk 2 (Itamar Berger from Snap)
-          <br/>
-          <i>Title: Snap to Fit: AR Try-on in Snapchat</i>
+          Industry Talk 2 (Reza Shirvany from Zalando)
+          <br />
+          <i>Title: TBD</i>
           </td>
           <td></td>
         </tr>
         <tr>
-          <td>4:10pm - 4:35pm</td>
+          <td>11:40am - 12:00am</td>
           <td>
-          Industry Talk 3 (Chengfei Lv from Alibaba)
-          <br/>
-          <i>Title: Introduction to 3D and XR Technology in Taobao</i>
+          Industry Talk 3 (Varun Jampani from Stability AI)
+          <br />
+          <i>Title: TBD</i>
           </td>
           <td></td>
         </tr>
         <tr>
-          <td>4:35pm - 5:00pm</td>
-          <td>Panel discussion and community building <br/>
-          <i>Panelists: Ming Lin, Rana Hanocka, Michael Black</i><br/>
-          <i>Moderator: Daniel Ritchie</i></td>
+          <td>12:00pm - 12:20pm</td>
+          <td>Panel discussion and community building <br />
+          <i>Panelists: TBD</i><br />
+          <i>Moderator: TBD</i></td>
           <td></td>
         </tr>
       </tbody>
@@ -202,9 +174,11 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-md-12">
-    <a href="https://geometry.stanford.edu/member/guibas/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/guibas.jpg" | prepend:site.baseurl }}"></a>
+    <a href="https://people.mpi-inf.mpg.de/~theobalt/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/Christian_Theobalt_stehend.jpg" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://geometry.stanford.edu/member/guibas/">Leonidas Guibas</a></b> Paul Pigott Professor of Computer Science and Electrical Engineering at Stanford University. He heads the Geometric Computation group in the Computer Science Department. He works on algorithms for sensing, modeling, reasoning, rendering, and acting on the physical world. More recently, he has focused on shape analysis and computer vision using deep neural networks.
+      <b><a href="https://people.mpi-inf.mpg.de/~theobalt/">Leonidas Guibas</a></b> Professor and the Director of the Visual Computing and AI Department at Max Planck Institute for Informatics. He works in computer vision and graphics, with a focus on 3D shape understanding. His long
+      term vision to develop entirely new ways to capture, represent, synthesize and
+      simulate models of the real world at highest detail, robustness, and efficiency.
     </p>
   </div>
 </div><br>
