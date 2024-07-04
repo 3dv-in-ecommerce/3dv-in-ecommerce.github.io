@@ -67,7 +67,7 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>8:50am - 9:00am</td>
-          <td>Welcome and Introduction (Richard Zhang)</td>
+          <td>Welcome and Introduction (TBD)</td>
           <td></td>
         </tr>
         <tr>
