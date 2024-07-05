@@ -236,7 +236,7 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-md-12">
-    <a href="https://www.linkedin.com/in/aleix-martinez-480110162/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/Aleix.jpeg" | prepend:site.baseurl }}"></a>
+    <a href="https://www.linkedin.com/in/aleix-martinez-480110162/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/Aleix.jpg" | prepend:site.baseurl }}"></a>
     <p>
       <b><a href="https://www.linkedin.com/in/aleix-martinez-480110162/">Aleix Martinez</a></b> Sr. Principal Scientist and Director of Amazon Science in Seattle and Barcelona. At Amazon, Aleix has led teams on strategic investments in GenAI, ML, CV and NLP. He brings in 25+ years of experience, delivering
       some of the most consequential innovations of our generation. Prior to Amazon,
@@ -534,8 +534,6 @@ acknowledgements: ""
 
 </div>
 
-</div>
-
 <div class="row text-center">
 
   <div class="col-xs-2">
@@ -600,7 +598,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>
-      We thank <span style="color:#1a1aff;font-weight:400;"> <a href="https://www.guillaum.in/~matthieu/">Matthieu Guillaumin</a></span> for his assistance in data uploading and for driving the ABO dataset release! We thank <span style="color:#1a1aff;font-weight:400;"> <a href="https://visualdialog.org/">visualdialog.org</a></span> for the webpage format.
+      We thank <span style="color:#1a1aff;font-weight:400;"> <a href="https://visualdialog.org/">visualdialog.org</a></span> for the webpage format.
     </p>
   </div>
 </div>
