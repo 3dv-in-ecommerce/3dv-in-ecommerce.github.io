@@ -249,7 +249,7 @@ acknowledgements: ""
   <div class="col-md-12">
     <a href="https://scholar.google.com/citations?user=Y9YnFoUAAAAJ&hl=en/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/TBD.png" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://scholar.google.com/citations?user=Y9YnFoUAAAAJ&hl=en/">Reza Shirvany<</a></b> Director of Applied Science at Zalando, leading a multi-disciplinary 
+      <b><a href="https://scholar.google.com/citations?user=Y9YnFoUAAAAJ&hl=en/">Reza Shirvany</a></b> Director of Applied Science at Zalando, leading a multi-disciplinary 
       team of applied scientists that develop customer facing AI driven
       products in online Fashion, for example the Zalando Virtual Fitting Room.
     </p>
