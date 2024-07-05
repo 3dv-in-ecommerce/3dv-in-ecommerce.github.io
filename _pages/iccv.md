@@ -1,9 +1,9 @@
 ---
 layout: project
-urltitle:  "3D Vision and Modeling Challenges in eCommerce"
-title: "3D Vision and Modeling Challenges in eCommerce"
+urltitle:  "3D Vision and Modeling Challenges in eCommerce at ICCV 2023"
+title: "3D Vision and Modeling Challenges in eCommerce at ICCV 2023"
 categories: iccv, workshop, computer vision, computer graphics, deep learning, shape understanding, eCommerce, retail, 3D reconstruction, human modeling, language and vision
-permalink: /
+permalink: /iccv2023/
 favicon: /static/img/ico/favicon.png
 bibtex: true
 paper: true
@@ -14,11 +14,11 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <center><h1>3D Vision and Modeling Challenges in eCommerce</h1></center>
-    <center><h2>ECCV 2024 Workshop</h2></center>
-    <center><span style="font-weight:400;">Sep 29, 2023 @ Milan, Italy</span></center>
-    <center><span style="font-weight:400;">Room TBD, MiCo Milano Convention Center</span></center>
+    <center><h2>ICCV 2023 Workshop</h2></center>
+    <center><span style="font-weight:400;">October 2, 2023 @ Paris, France</span></center>
+    <center><span style="font-weight:400;">Room E06, Paris Convention Center</span></center>
     <center><span style="color:#e74c3c;font-weight:400;"></span></center>
-    <br />
+    <br/>
   </div>
 </div>
 
@@ -46,11 +46,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>
-      This workshop aims to bring together researchers working on 3D computer vision and graphics for eCommerce, with a focus on the three topics: 
-      (1) 3D shape/scene understanding and generation e.g. semantic segmentation, affordance and motion, multi-view reconstruction; 
-      (2) Digital human and fashion e.g. virtual try-ons and personalized fashion recommendation;
-      (3) Foundation-model-assisted reasoning e.g. shape/scene synthesis from texts, language grounding in 3D models and diffusion-based 3D generative models.
-      We invited 6 keynote speakers from academia and 3 talks from industry experts. <a href="/iccv2023/">Previous 3dv-in-ecommerce workshop at ICCV 2023</a>.
+      This workshop aims to bring together researchers working on 3D computer vision and graphics for eCommerce, with a focus on the three topics: (1) 3D object/scene modeling and understanding in 3D eCommerce such as semantic segmentation, affordance and motion, multi-view reconstruction; (2) human modeling and fashion in 3D eCommerce such as virtual try-ons and personalized fashion recommendation, and (3) language-assisted reasoning such as shape/scene synthesis from texts and language grounding in 3D models. We invited 6 keynote speakers from academia and 3 talks from industry experts. We will also host a challenge on 3D part labeling for 3D models from real products sold online.
      <!--This workshop aims to bring together researchers working on generative models of 3D shapes and scenes with researchers and practitioners who use these generative models in a variety of research areas. For our purposes, we define "generative model" to include methods that synthesize geometry unconditionally as well as from sensory inputs (e.g. images), language, or other high-level specifications. Vision tasks that can benefit from such models include scene classification and segmentation, 3D reconstruction, human activity recognition, robotic visual navigation, question answering, and more.-->
     </p>
   </div>
@@ -60,7 +56,7 @@ acknowledgements: ""
 <div class="row" id="schedule">
   <div class="col-xs-12">
     <h2>Schedule</h2>
-    <p>All times in Italy Time (UTC+02:00)</p>
+    <p>All times in Paris Time (UTC+02:00)</p>
   </div>
 </div>
 
@@ -71,94 +67,126 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>8:50am - 9:00am</td>
-          <td>Welcome and Introduction (TBD)</td>
+          <td>Welcome and Introduction (Richard Zhang)</td>
           <td></td>
         </tr>
         <tr>
-          <td>9:00am - 9:20am</td>
+          <td>9:00am - 9:35am</td>
           <td>
-          Invited Talk 1 (Christian Theobalt)
-          <br />
-          <i>Title: TBD</i>
+          Invited Talk 1 (Leonidas Guibas)
+          <br/>
+          <i>Title: Compositional Object Modeling: Parts, Language, and Functionality</i>
           </td>
           <td></td>
         </tr>
         <tr>
-          <td>9:20am - 9:40am</td>
+          <td>9:35am - 10:10am</td>
           <td>
-          Invited Talk 2 (Angjoo Kanazawa)
-          <br />
-          <i>Title: TBD</i>
+          Invited Talk 2 (Rana Hanocka)
+          <br/>
+          <i>Title: Data-Driven Shape Editing without 3D Data</i>
           </td>
           <td></td>
         </tr>
         <tr>
-          <td>9:40am - 10:00am</td>
+          <td>10:10am - 10:20am</td>
+          <td>Coffee break</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>10:20am - 10:55am</td>
           <td>
-          Invited Talk 3 (Ira Kemelmacher-Shlizerman)
-          <br />
-          <i>Title: TBD</i>
+          Invited Talk 3 (Michael Black)
+          <br/>
+          <i>Title: Implicit, Explicit, Real, and Synthetic: Spinning the Virtual Fashion Flywheel</i>
           </td>
           <td></td>
         </tr>
         <tr>
-          <td>10:00am - 10:20am</td>
-          <td>Invited Talk 4 (Justus Thies)
-          <br />
-          <i>Title: TBD</i>
+          <td>10:55am - 11:30am</td>
+          <td>Invited Talk 4 (Ming Lin)
+          <br/>
+          <i>Title: Dynamics-Inspired Learning-based Virtual Try-On</i>
           </td>
           <td></td>
         </tr>
         <tr>
-          <td>10:20am - 10:40am</td>
+          <td>11:30am - 12:00pm</td>
+          <td>Invited student paper presentations
+          <br/>
+          <i>HAL3D: Hierarchical Active Learning for Fine-Grained 3D Part Labeling</i> (Fenggen Yu) <br/>
+          <i>TriCoLo: Trimodal Contrastive Loss for fine-grained Text to Shape Retrieval</i> (Angel Chang) <br/>
+          <i>Improving Unsupervised Visual Program Inference with Code Rewriting Families</i> (Aditya Ganeshan) <br/>
+          <i>Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior</i> (Junshu Tang) <br/>
+          <i>D-IF: Uncertainty-aware Human Digitization via Implicit Distribution Field</i> (Xueting Yang)
+          </td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>12:00pm - 1:30pm</td>
+          <td>Lunch break</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>1:30pm - 2:00pm</td>
+          <td>Winner presentations of the challenge</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>2:00pm - 2:35pm</td>
           <td>
-          Invited Talk 5 (Hadar Averbuch-Elor)
-          <br />
-          <i>Title: TBD</i>
+          Invited Talk 5 (Roozbeh Mottaghi)
+          <br/>
+          <i>Title: Habitat 3.0: A Co-Habitat for Humans, Avatars, and Robots</i>
           </td>
           <td></td>
         </tr>
         <tr>
-          <td>10:40am - 11:00am</td>
+          <td>2:35pm - 3:10pm</td>
           <td>
-          Invited Talk 6 (Chuang Gan)
-          <br />
-          <i>Title: TBD</i>
+          Invited Talk 6 (Katerina Fragkiadaki)
+          <br/>
+          <i>Title: 3D Part Segmentation and Reconstruction with Little or No Training</i>
           </td>
           <td></td>
         </tr>
         <tr>
-          <td>11:00am - 11:20am</td>
+          <td>3:10pm - 3:20pm</td>
+          <td>Coffee break</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>3:20pm - 3:45pm</td>
           <td>
-          Industry Talk 1 (Aleix Martinez from Amazon)
-          <br />
-          <i>Title: TBD</i>
+          Industry Talk 1 (Eric Bennett from Amazon)
+          <br/>
+          <i>Title: Scaling 3D eCommerce Innovations <br/> A 10,000 Meter View on Building Durable 3D Content Creation Algorithms for Growth</i>
           </td>
           <td></td>
         </tr>
         <tr>
-          <td>11:20am - 11:40am</td>
+          <td>3:45pm - 4:10pm</td>
           <td>
-          Industry Talk 2 (Reza Shirvany from Zalando)
-          <br />
-          <i>Title: TBD</i>
+          Industry Talk 2 (Itamar Berger from Snap)
+          <br/>
+          <i>Title: Snap to Fit: AR Try-on in Snapchat</i>
           </td>
           <td></td>
         </tr>
         <tr>
-          <td>11:40am - 12:00am</td>
+          <td>4:10pm - 4:35pm</td>
           <td>
-          Industry Talk 3 (Varun Jampani from Stability AI)
-          <br />
-          <i>Title: TBD</i>
+          Industry Talk 3 (Chengfei Lv from Alibaba)
+          <br/>
+          <i>Title: Introduction to 3D and XR Technology in Taobao</i>
           </td>
           <td></td>
         </tr>
         <tr>
-          <td>12:00pm - 12:20pm</td>
-          <td>Panel discussion and community building <br />
-          <i>Panelists: TBD</i><br />
-          <i>Moderator: TBD</i></td>
+          <td>4:35pm - 5:00pm</td>
+          <td>Panel discussion and community building <br/>
+          <i>Panelists: Ming Lin, Rana Hanocka, Michael Black</i><br/>
+          <i>Moderator: Daniel Ritchie</i></td>
           <td></td>
         </tr>
       </tbody>
@@ -174,98 +202,131 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-md-12">
-    <a href="https://people.mpi-inf.mpg.de/~theobalt/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/Christian_Theobalt_stehend.jpg" | prepend:site.baseurl }}"></a>
+    <a href="https://geometry.stanford.edu/member/guibas/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/guibas.jpg" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://people.mpi-inf.mpg.de/~theobalt/">Christian Theobalt</a></b> Professor and the Director of the Visual Computing and AI Department at Max Planck Institute for Informatics. He works in computer vision and graphics, with a focus on 3D shape understanding. His long
-      term vision to develop entirely new ways to capture, represent, synthesize and
-      simulate models of the real world at highest detail, robustness, and efficiency.
+      <b><a href="https://geometry.stanford.edu/member/guibas/">Leonidas Guibas</a></b> Paul Pigott Professor of Computer Science and Electrical Engineering at Stanford University. He heads the Geometric Computation group in the Computer Science Department. He works on algorithms for sensing, modeling, reasoning, rendering, and acting on the physical world. More recently, he has focused on shape analysis and computer vision using deep neural networks.
     </p>
   </div>
 </div><br>
 
 <div class="row">
   <div class="col-md-12">
-    <a href="https://people.eecs.berkeley.edu/~kanazawa/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/angjoo.jpg" | prepend:site.baseurl }}"></a>
+    <a href="https://people.cs.uchicago.edu/~ranahanocka/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/rana.jpg" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://people.eecs.berkeley.edu/~kanazawa/">Angjoo Kanazawa</a></b> Assistant Professor at UC Berkeley. Her research focuses on the visual perception of the dynamic 3D world behind everyday photographs and video. Previously, she was a research scientist at Google.
+      <b><a href="https://people.cs.uchicago.edu/~ranahanocka/">Rana Hanocka</a></b> Assistant Professor of Computer Science at the University of Chicago. She directs 3DL, a group of enthusiastic researchers passionate about 3D, machine learning, and visual computing. She obtained her Ph.D. in 2021 from Tel Aviv University under the supervision of Daniel Cohen-Or and Raja Giryes. Her research is focused on building artificial intelligence for 3D data, spanning the fields of computer graphics, machine learning, and computer vision.
     </p>
   </div>
 </div><br>
 
 <div class="row">
   <div class="col-md-12">
-    <a href="https://www.irakemelmacher.com/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/Kemelmacher.jfif" | prepend:site.baseurl }}"></a>
+    <a href="https://ps.is.mpg.de/~black"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/black.jpeg" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://www.irakemelmacher.com/">Ira Kemelmacher-Shlizerman</a></b> Professor at the University of Washington and a Principal Scientist at Google working on human modeling. Her team works
-      on Generative AI imagery, and 3D experiences for Google online shopping, with
-      a recent focus on apparel virtual try-on and 3D shoe spins.
+      <b><a href="https://ps.is.mpg.de/~black">Michael Black</a></b> Honorary Professor at the University of Tuebingen and one of the founding directors at the Max Planck Institute for Intelligent Systems in Tübingen, Germany, where he leads the Perceiving Systems department. He was also a Distinguished Amazon Scholar (VP, 2017-2021). Black's research interests in computer vision include optical flow estimation, 3D shape models, human shape and motion analysis, robust statistical methods, and probabilistic models of the visual world. Black co-founded he co-founded Body Labs Inc., which commercialized 3D body model technology, and was acquired by Amazon.com in 2017.
     </p>
   </div>
 </div><br>
 
 <div class="row">
   <div class="col-md-12">
-    <a href="https://justusthies.github.io/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/justus-thies.jpg" | prepend:site.baseurl }}"></a>
+    <a href="https://www.cs.umd.edu/~lin/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/lin.jpeg" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://justusthies.github.io/">Justus Thies</a></b> Professor at TU Darmstadt. He is interested in marker-less motion capturing of facial performances, human bodies as well as general non-rigid objects. Besides capturing and reconstructing reality, he works on AI-based
-      synthesis techniques that allow for photorealistic image and video synthesis.
+      <b><a href="https://www.cs.umd.edu/~lin/">Ming Lin</a></b> Distinguished University Professor and former Elizabeth Stevinson Iribe Chair of Computer Science at the University of Maryland College Park. Her research interests include computational robotics, haptics, physically-based modeling, virtual reality, sound rendering, and geometric computing. She has (co-)authored more than 300 refereed publications in these areas and co-edited/authored four books. Many of Lin’s research findings have been patented and licensed by more than 50 companies world wide. Lin is an Amazon Scholar with Amazon Fashion.
     </p>
   </div>
 </div><br>
 
 <div class="row">
   <div class="col-md-12">
-    <a href="https://www.elor.sites.tau.ac.il/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/Hadar2022_JPG.webp" | prepend:site.baseurl }}"></a>
+    <a href="https://roozbehm.info/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/roozbeh.jpeg" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://www.elor.sites.tau.ac.il/">Hadar Averbuch-Elor</a></b> Assistant Professor at Tel-Aviv University. Her research interests are in computer graphics and vision, particularly combining
-      pixels with more structured modalities, such as natural language and 3D geometry, for generating multimodal representations that are better suited for handling the full complexity of the visual world.
+      <b><a href="https://roozbehm.info/">Roozbeh Mottaghi</a></b> Research Scientist Manager at Meta and Affiliate Associate Prof. at the University of Washington working on Vision-and-Language and Embodied AI. Prior to joining FAIR, he was the Research Manager of the PRIOR team at the Allen Institute for AI. Before that, I was a Postdoctoral Researcher in the Computer Science Department at Stanford University. He was a post-doctoral researcher at the Computer Science Department at Stanford University. He obtained his PhD in Computer Science from University of California, Los Angeles.
     </p>
   </div>
 </div><br>
 
 <div class="row">
   <div class="col-md-12">
-    <a href="https://people.csail.mit.edu/ganchuang/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/Chuang_Gan.jpg" | prepend:site.baseurl }}"></a>
+    <a href="https://www.cs.cmu.edu/~katef/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/katef.png" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://people.csail.mit.edu/ganchuang/">Chuang Gan</a></b> Assistant Professor at UMass Amherst and a research manager at MIT-IBM Watson AI Lab. The overarching goal of his research is to
-      build a human-like autonomous agents that is capable of sensing, reasoning, and
-      acting in the physical world, with a recent focus on 3D large language models.
+      <b><a href="https://www.cs.cmu.edu/~katef/">Katerina Fragkiadaki</a></b> Assistant Professor in the Machine Learning Department at Carnegie Mellon University. She received her Ph.D. from the University of Pennsylvania and was a postdoctoral fellow at UC Berkeley and Google research after that.  Her work is on learning visual representations with little supervision and combining spatial reasoning in deep visual learning. Her group develops algorithms for mobile computer vision,  learning of physics, and common sense for agents that move around and interact with the world.
     </p>
   </div>
 </div><br>
 
 <div class="row">
   <div class="col-md-12">
-    <a href="https://www.linkedin.com/in/aleix-martinez-480110162/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/Aleix.jpg" | prepend:site.baseurl }}"></a>
+    <a href="https://www.linkedin.com/in/eric-bennett-2664a817"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/eric.jpeg" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://www.linkedin.com/in/aleix-martinez-480110162/">Aleix Martinez</a></b> Sr. Principal Scientist and Director of Amazon Science in Seattle and Barcelona. At Amazon, Aleix has led teams on strategic investments in GenAI, ML, CV and NLP. He brings in 25+ years of experience, delivering
-      some of the most consequential innovations of our generation. Prior to Amazon,
-      Aleix was a Full Professor at The Ohio State University.
+      <b><a href="https://www.linkedin.com/in/eric-bennett-2664a817">Eric Bennett</a></b> Director of Science at Amazon Imaging. Bennett leads the research and development of cutting-edge solutions for the creation of 3D models using ML, CV, photogrammetry, and more to bring new immersive experiences to Amazon's customers. He obtained his Ph.D. in Computer Science from University of North Carolina at Chapel Hill.
     </p>
   </div>
 </div><br>
 
 <div class="row">
   <div class="col-md-12">
-    <a href="https://scholar.google.com/citations?user=Y9YnFoUAAAAJ&hl=en/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/TBD.png" | prepend:site.baseurl }}"></a>
+    <a href="https://itamarbe.github.io/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/itamar.jpeg" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://scholar.google.com/citations?user=Y9YnFoUAAAAJ&hl=en/">Reza Shirvany</a></b> Director of Applied Science at Zalando, leading a multi-disciplinary 
-      team of applied scientists that develop customer facing AI driven
-      products in online Fashion, for example the Zalando Virtual Fitting Room.
+      <b><a href="https://itamarbe.github.io/">Itamar Berger</a></b> Computer Vision Engineering Manager at Snap. His team develops products for improving the Augmented Reality experiences using Deep Learning and Generative AI for SnapAR. Before Snap, he co-founded a statup in the field of real-time motion capture and was a R&D manager at Autodesk.
     </p>
   </div>
 </div><br>
 
 <div class="row">
   <div class="col-md-12">
-    <a href="https://varunjampani.github.io/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/varunjampani.jpeg" | prepend:site.baseurl }}"></a>
+    <a href="https://www.researchgate.net/profile/Chengfei-Lv"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/chengfei.jpeg" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://varunjampani.github.io/">Varun Jampani</a></b> Lead researcher at Stability AI. He is mainly interested in automatic 3D and 4D object understanding from image collections and videos by
-      leveraging both reconstruction and generation techniques. He has several works
-      on generative models for 3D scenes.
+      <b><a href="https://www.researchgate.net/profile/Chengfei-Lv">Chengfei Lv</a></b> Head of Alibaba's 3D/XR Technology Department. His team works on 3D/XR technologies specific to eCommerce, such as 3D reconstruction of commodities, high-performing volumetric video for MR, and 3D modeling and rendering engines, responsible for exploring innovative consumer applications for immersive experiences.
     </p>
   </div>
 </div><br>
+
+<div class="row" id="cfp">
+  <div class="col-xs-12">
+    <h2>Challenge</h2>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-12">
+    <p>
+      <span style="font-weight:500;">Call for particpations:</span> The workshop will host a competition focused on fine-grained semantic segmentation of 3D shapes. The competition will use 3D models from five categories (chair, table, cabinet, lamp, and bed) from the Amazon-Berkeley-Object (ABO) dataset, which has a total of 3400 models. The ABO dataset, recently published, features high quality, uniformly standard 3D models of real products sold online, created by artists. The models are made up of build-aware connected components, which form the basis of various shape properties such as texture, motion, function, interaction, and construction. The workshop challenge focuses on assigning fine-grained semantic labels (e.g., leg and arm, defined based on PartNet) to these connected components in the ABO dataset. 
+    </p>
+    <p>
+      <span style="font-weight:500;">Submission site:</span> <a href="https://eval.ai/web/challenges/challenge-page/2027/overview" target="_blank">https://eval.ai/web/challenges/challenge-page/2027/overview</a>
+    </p>
+  </div>
+</div>
+
+<div class="row" id="dates">
+  <div class="col-xs-12">
+    <h2>Important Dates</h2>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-xs-12">
+    <table class="table table-striped">
+      <tbody>
+        <tr>
+          <td>Release of train and validation sets</td>
+          <td>June 01, 2023</td>
+        </tr>
+        <tr>
+          <td>Release of test set</td>
+          <td>Aug 15, 2023</td>
+        </tr>
+        <tr>
+          <td>Submission deadline</td>
+          <td>Sep 10, 2023</td>
+        </tr>
+        <tr>
+          <td>Workshop date</td>
+          <td>Oct 02, 2023</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
 
 <!--<br>
 <div class="row" id="accepted">
@@ -405,16 +466,6 @@ acknowledgements: ""
 </div>
 
 <div class="row text-center">
-  <div class="col-xs-2">
-    <a href="https://kwang-ether.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/kai.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://kwang-ether.github.io/">Kai Wang</a>
-      <h6>Amazon</h6>
-      <h6>(Primary Contact)</h6>
-    </div>
-  </div>
 
   <div class="col-xs-2">
     <a href="https://yi-ming-qian.github.io/">
@@ -423,7 +474,7 @@ acknowledgements: ""
     <div class="people-name">
       <a href="https://yi-ming-qian.github.io/">Yiming Qian</a>
       <h6>Amazon</h6>
-      <!-- <h6>(Primary Contact)</h6> -->
+      <h6>(Primary Contact)</h6>
     </div>
   </div>
 
@@ -438,32 +489,43 @@ acknowledgements: ""
   </div>
 
   <div class="col-xs-2">
-    <a href="https://www.linkedin.com/in/brian-jackson-8701a2a2//">
-      <img class="people-pic" src="{{ "/static/img/people/brian.jfif" | prepend:site.baseurl }}">
+    <a href="https://panchagil.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/pancha.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://www.linkedin.com/in/brian-jackson-8701a2a2/">Brian Jackson</a>
+      <a href="https://panchagil.github.io/">Francisca Gil-Ureta</a>
       <h6>Amazon</h6>
     </div>
   </div>
 
   <div class="col-xs-2">
-    <a href="http://pgehler-homepage.s3-website-us-east-1.amazonaws.com/">
-      <img class="people-pic" src="{{ "/static/img/people/peter.jpg" | prepend:site.baseurl }}">
+    <a href="https://xu-zhang-1987.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/xu.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="http://pgehler-homepage.s3-website-us-east-1.amazonaws.com/">Peter Gehler</a>
-      <h6>Zalando</h6>
+      <a href="https://xu-zhang-1987.github.io/">Xu Zhang</a>
+      <h6>Amazon</h6>
+    </div>
+  </div>
+
+
+  <div class="col-xs-2">
+    <a href="https://jazcollins.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/jasmine.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://jazcollins.github.io/">Jasmine Collins</a>
+      <h6>UC Berkeley</h6>
     </div>
   </div>
 
   <div class="col-xs-2">
-    <a href="https://lorisbaz.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/loris.jpeg" | prepend:site.baseurl }}">
+    <a href="https://angelxuanchang.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/angel.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://lorisbaz.github.io/">Loris Bazzani</a>
-      <h6>Amazon</h6>
+      <a href="https://angelxuanchang.github.io/">Angel Chang</a>
+      <h6>Simon Fraser University</h6>
     </div>
   </div>
 
@@ -473,21 +535,11 @@ acknowledgements: ""
 <div class="row text-center">
 
   <div class="col-xs-2">
-    <a href="https://panchagil.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/pancha.jpeg" | prepend:site.baseurl }}">
+    <a href="https://egundogdu.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/erhan.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://panchagil.github.io/">Francisca Gil-Ureta</a>
-      <h6>Amazon</h6>
-    </div>
-  </div>
-  
-  <div class="col-xs-2">
-    <a href="https://xu-zhang-1987.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/xu.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://xu-zhang-1987.github.io/">Xu Zhang</a>
+      <a href="https://egundogdu.github.io/">Erhan Gundogdu</a>
       <h6>Amazon</h6>
     </div>
   </div>
@@ -499,16 +551,6 @@ acknowledgements: ""
     <div class="people-name">
       <a href="https://dritchie.github.io/">Daniel Ritchie</a>
       <h6>Brown University</h6>
-    </div>
-  </div>
-
-  <div class="col-xs-2">
-    <a href="https://angelxuanchang.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/angel.jpeg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://angelxuanchang.github.io/">Angel Chang</a>
-      <h6>Simon Fraser University</h6>
     </div>
   </div>
 
@@ -530,39 +572,37 @@ acknowledgements: ""
       <a href="https://jianwang-cmu.github.io/">Jian Wang</a>
       <h6>Snap</h6>
     </div>
-  </div>  
-
-</div>
-
-<div class="row text-center">
-
-  <div class="col-xs-2">
-    <a href="https://paschalidoud.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/Despoina.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://paschalidoud.github.io/">Despoina Paschalidou</a>
-      <h6>Stanford University</h6>
-    </div>
   </div>
 
   <div class="col-xs-2">
-    <a href="https://zouchuhang.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/chuhang.png" | prepend:site.baseurl }}">
+    <a href="https://hufu6371.github.io/huanfu/">
+      <img class="people-pic" src="{{ "/static/img/people/huan.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://zouchuhang.github.io/">Chuhang Zou</a>
-      <h6>Amazon</h6>
+      <a href="https://hufu6371.github.io/huanfu/">Huan Fu</a>
+      <h6>Alibaba</h6>
     </div>
   </div>
 
+  
+
+  
+
 </div>
 
-<!-- <hr>
+<hr>
 
 <h2>Senior Organizers</h2>
 <div class="row text-center">
-
+  <div class="col-xs-2">
+    <a href="https://lorisbaz.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/loris.jpeg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://lorisbaz.github.io/">Loris Bazzani</a>
+      <h6>Amazon</h6>
+    </div>
+  </div>
 
   <div class="col-xs-2">
     <a href="https://www.linkedin.com/in/devernay">
@@ -583,7 +623,7 @@ acknowledgements: ""
       <h6>Simon Fraser University & Amazon</h6>
     </div>
   </div>
-</div> -->
+</div>
 
 <br/>
 <br/>
@@ -598,7 +638,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>
-      We thank <span style="color:#1a1aff;font-weight:400;"> <a href="https://visualdialog.org/">visualdialog.org</a></span> for the webpage format.
+      We thank <span style="color:#1a1aff;font-weight:400;"> <a href="https://www.guillaum.in/~matthieu/">Matthieu Guillaumin</a></span> for his assistance in data uploading and for driving the ABO dataset release! We thank <span style="color:#1a1aff;font-weight:400;"> <a href="https://visualdialog.org/">visualdialog.org</a></span> for the webpage format.
     </p>
   </div>
 </div>
