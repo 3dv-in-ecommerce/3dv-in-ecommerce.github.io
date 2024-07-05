@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: challenge
 urltitle:  "3D Vision and Modeling Challenges in eCommerce at ICCV 2023"
 title: "3D Vision and Modeling Challenges in eCommerce at ICCV 2023"
 categories: iccv, workshop, computer vision, computer graphics, deep learning, shape understanding, eCommerce, retail, 3D reconstruction, human modeling, language and vision
