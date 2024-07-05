@@ -8,6 +8,7 @@ favicon: /static/img/ico/favicon.png
 bibtex: true
 paper: true
 acknowledgements: ""
+description: "Website for the Workshop on 3D Vision and Modeling Challenges in eCommerce at ICCV 2023"
 ---
 
 <br>
