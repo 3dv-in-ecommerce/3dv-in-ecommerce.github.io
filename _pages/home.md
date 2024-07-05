@@ -2,7 +2,7 @@
 layout: project
 urltitle:  "3D Vision and Modeling Challenges in eCommerce"
 title: "3D Vision and Modeling Challenges in eCommerce"
-categories: iccv, workshop, computer vision, computer graphics, deep learning, shape understanding, eCommerce, retail, 3D reconstruction, human modeling, language and vision
+categories: eccv, workshop, computer vision, computer graphics, deep learning, shape understanding, eCommerce, retail, 3D reconstruction, human modeling, language and vision
 permalink: /
 favicon: /static/img/ico/favicon.png
 bibtex: true
