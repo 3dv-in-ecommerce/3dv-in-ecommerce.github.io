@@ -26,8 +26,8 @@ description: "Website for the Workshop on 3D Vision and Modeling Challenges in e
 <hr>
 
 <!--<b>📢 Calling all researchers and enthusiasts! 🚀 Join our thrilling fine-grained 3D part labeling challenge built on the Amazon Berkeley Objects (ABO) Dataset: <a href="https://eval.ai/web/challenges/challenge-page/2027/overview" target="_blank">https://eval.ai/web/challenges/challenge-page/2027/overview</a>.</b>-->
-<b>📢 Live Q&A on Slido: <a href="https://app.sli.do/event/iYUGKVgj6AVdjGhY5dzvAd" target="_blank">https://tinyurl.com/3DVeComm-slido</a> (use it to ask questions for presentations and panel discussion).</b> <br/>
-<b>📢 Remote presentations on Zoom: <a href="https://sfu.zoom.us/j/82710628380?pwd=OQaJJGWXuRr7IYakyPd8k6Em6iUAeg.1" target="_blank">https://tinyurl.com/3DVeComm-zoom</a>.</b>
+<!-- <b>📢 Live Q&A on Slido: <a href="https://app.sli.do/event/iYUGKVgj6AVdjGhY5dzvAd" target="_blank">https://tinyurl.com/3DVeComm-slido</a> (use it to ask questions for presentations and panel discussion).</b> <br/>
+<b>📢 Remote presentations on Zoom: <a href="https://sfu.zoom.us/j/82710628380?pwd=OQaJJGWXuRr7IYakyPd8k6Em6iUAeg.1" target="_blank">https://tinyurl.com/3DVeComm-zoom</a>.</b> -->
 
 
 <!-- <b>Join live stream <a href="https://live.allintheloop.net/Agenda/ortra/ortraECCV2022/View_agenda/236653">here</a> (ECCV registration required).</b>
@@ -50,8 +50,7 @@ description: "Website for the Workshop on 3D Vision and Modeling Challenges in e
       This workshop aims to bring together researchers working on 3D computer vision and graphics for eCommerce, with a focus on the three topics: 
       (1) 3D shape/scene understanding and generation e.g. semantic segmentation, affordance and motion, multi-view reconstruction; 
       (2) Digital human and fashion e.g. virtual try-ons and personalized fashion recommendation;
-      (3) Foundation-model-assisted reasoning e.g. shape/scene synthesis from texts, language grounding in 3D models and diffusion-based 3D generative models.
-      We invited 6 keynote speakers from academia and 3 talks from industry experts. <a href="/iccv2023/">Previous 3dv-in-ecommerce workshop at ICCV 2023</a>.
+      (3) Foundation-model-assisted reasoning e.g. shape/scene synthesis from texts, language grounding in 3D models and diffusion-based 3D generative models. We successfully hosted the <a href="/iccv2023/">the first 3DV in eCommerce workshop at ICCV 2023</a> which was very well-received and inspiring to the audience. In this second workshop, we are inviting a fully new line of speakers including 6 keynote presentations from academia and 3 talks from industry experts. 
      <!--This workshop aims to bring together researchers working on generative models of 3D shapes and scenes with researchers and practitioners who use these generative models in a variety of research areas. For our purposes, we define "generative model" to include methods that synthesize geometry unconditionally as well as from sensory inputs (e.g. images), language, or other high-level specifications. Vision tasks that can benefit from such models include scene classification and segmentation, 3D reconstruction, human activity recognition, robotic visual navigation, question answering, and more.-->
     </p>
   </div>
