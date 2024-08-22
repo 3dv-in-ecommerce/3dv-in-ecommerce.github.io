@@ -64,107 +64,90 @@ description: "Website for the Workshop on 3D Vision and Modeling Challenges in e
   </div>
 </div>
 
-
 <div class="row">
   <div class="col-xs-12">
      <table class="table table-striped">
       <tbody>
         <tr>
           <td>8:50am - 9:00am</td>
-          <td>Welcome and Introduction (TBD)</td>
+          <td>Welcome and Introduction</td>
           <td></td>
         </tr>
         <tr>
           <td>9:00am - 9:20am</td>
-          <td>
-          Invited Talk 1 (Christian Theobalt)
-          <br />
-          <i>Title: TBD</i>
-          </td>
+          <td>Invited Talk 1</td>
           <td></td>
         </tr>
         <tr>
           <td>9:20am - 9:40am</td>
-          <td>
-          Invited Talk 2 (Angjoo Kanazawa)
-          <br />
-          <i>Title: TBD</i>
-          </td>
+          <td>Invited Talk 2</td>
           <td></td>
         </tr>
         <tr>
-          <td>9:40am - 10:00am</td>
-          <td>
-          Invited Talk 3 (Ira Kemelmacher-Shlizerman)
-          <br />
-          <i>Title: TBD</i>
-          </td>
+          <td>9:40am - 9:50am</td>
+          <td>Break</td>
           <td></td>
         </tr>
         <tr>
-          <td>10:00am - 10:20am</td>
-          <td>Invited Talk 4 (Justus Thies)
-          <br />
-          <i>Title: TBD</i>
-          </td>
+          <td>9:50am - 10:10am</td>
+          <td>Invited Talk 3</td>
           <td></td>
         </tr>
         <tr>
-          <td>10:20am - 10:40am</td>
-          <td>
-          Invited Talk 5 (Hadar Averbuch-Elor)
-          <br />
-          <i>Title: TBD</i>
-          </td>
+          <td>10:10am - 10:30am</td>
+          <td>Invited Talk 4</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>10:30am - 10:40am</td>
+          <td>Break</td>
           <td></td>
         </tr>
         <tr>
           <td>10:40am - 11:00am</td>
-          <td>
-          Invited Talk 6 (Chuang Gan)
-          <br />
-          <i>Title: TBD</i>
-          </td>
+          <td>Invited Talk 5</td>
           <td></td>
         </tr>
         <tr>
           <td>11:00am - 11:20am</td>
-          <td>
-          Industry Talk 1 (Aleix Martinez from Amazon)
-          <br />
-          <i>Title: TBD</i>
-          </td>
+          <td>Invited Talk 6</td>
           <td></td>
         </tr>
         <tr>
-          <td>11:20am - 11:40am</td>
-          <td>
-          Industry Talk 2 (Reza Shirvany from Zalando)
-          <br />
-          <i>Title: TBD</i>
-          </td>
+          <td>11:20am - 11:30am</td>
+          <td>Break</td>
           <td></td>
         </tr>
         <tr>
-          <td>11:40am - 12:00am</td>
-          <td>
-          Industry Talk 3 (Varun Jampani from Stability AI)
-          <br />
-          <i>Title: TBD</i>
-          </td>
+          <td>11:30am - 11:50am</td>
+          <td>Industry Talk 1</td>
           <td></td>
         </tr>
         <tr>
-          <td>12:00pm - 12:20pm</td>
-          <td>Panel discussion and community building <br />
-          <i>Panelists: TBD</i><br />
-          <i>Moderator: TBD</i></td>
+          <td>11:50am - 12:10pm</td>
+          <td>Industry Talk 2</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>12:10pm - 12:20pm</td>
+          <td>Break</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>12:20pm - 12:40pm</td>
+          <td>Industry Talk 3</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>12:40pm - 1:00pm</td>
+          <td>Industry Talk 4</td>
           <td></td>
         </tr>
       </tbody>
     </table>
   </div>
 </div>
+
 
 <div class="row" id="speakers">
   <div class="col-xs-12">
