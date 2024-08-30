@@ -406,7 +406,6 @@ description: "Website for the Workshop on 3D Vision and Modeling Challenges in e
     <div class="people-name">
       <a href="https://yi-ming-qian.github.io/">Yiming Qian</a>
       <h6>Amazon</h6>
-      <!-- <h6>(Primary Contact)</h6> -->
     </div>
   </div>
 
@@ -421,26 +420,6 @@ description: "Website for the Workshop on 3D Vision and Modeling Challenges in e
   </div>
 
   <div class="col-xs-2">
-    <a href="https://www.linkedin.com/in/brian-jackson-8701a2a2//">
-      <img class="people-pic" src="{{ "/static/img/people/brian.jfif" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://www.linkedin.com/in/brian-jackson-8701a2a2/">Brian Jackson</a>
-      <h6>Amazon</h6>
-    </div>
-  </div>
-
-  <div class="col-xs-2">
-    <a href="http://pgehler-homepage.s3-website-us-east-1.amazonaws.com/">
-      <img class="people-pic" src="{{ "/static/img/people/peter.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="http://pgehler-homepage.s3-website-us-east-1.amazonaws.com/">Peter Gehler</a>
-      <h6>Zalando</h6>
-    </div>
-  </div>
-
-  <div class="col-xs-2">
     <a href="https://lorisbaz.github.io/">
       <img class="people-pic" src="{{ "/static/img/people/loris.jpeg" | prepend:site.baseurl }}">
     </a>
@@ -450,27 +429,22 @@ description: "Website for the Workshop on 3D Vision and Modeling Challenges in e
     </div>
   </div>
 
-</div>
-
-
-<div class="row text-center">
-
   <div class="col-xs-2">
-    <a href="https://panchagil.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/pancha.jpeg" | prepend:site.baseurl }}">
+    <a href="https://angelxuanchang.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/angel.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://panchagil.github.io/">Francisca Gil-Ureta</a>
-      <h6>Amazon</h6>
+      <a href="https://angelxuanchang.github.io/">Angel Chang</a>
+      <h6>Simon Fraser University</h6>
     </div>
   </div>
-  
+
   <div class="col-xs-2">
-    <a href="https://xu-zhang-1987.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/xu.jpg" | prepend:site.baseurl }}">
+    <a href="https://zouchuhang.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/chuhang.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://xu-zhang-1987.github.io/">Xu Zhang</a>
+      <a href="https://zouchuhang.github.io/">Chuhang Zou</a>
       <h6>Amazon</h6>
     </div>
   </div>
@@ -486,12 +460,42 @@ description: "Website for the Workshop on 3D Vision and Modeling Challenges in e
   </div>
 
   <div class="col-xs-2">
-    <a href="https://angelxuanchang.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/angel.jpeg" | prepend:site.baseurl }}">
+    <a href="https://paschalidoud.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/Despoina.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://angelxuanchang.github.io/">Angel Chang</a>
-      <h6>Simon Fraser University</h6>
+      <a href="https://paschalidoud.github.io/">Despoina Paschalidou</a>
+      <h6>Stanford University</h6>
+    </div>
+  </div>
+
+  <div class="col-xs-2">
+    <a href="https://panchagil.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/pancha.jpeg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://panchagil.github.io/">Francisca Gil-Ureta</a>
+      <h6>Amazon</h6>
+    </div>
+  </div>
+
+  <div class="col-xs-2">
+    <a href="http://pgehler-homepage.s3-website-us-east-1.amazonaws.com/">
+      <img class="people-pic" src="{{ "/static/img/people/peter.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="http://pgehler-homepage.s3-website-us-east-1.amazonaws.com/">Peter Gehler</a>
+      <h6>Zalando</h6>
+    </div>
+  </div>
+
+  <div class="col-xs-2">
+    <a href="https://www.linkedin.com/in/brian-jackson-8701a2a2/">
+      <img class="people-pic" src="{{ "/static/img/people/brian.jfif" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://www.linkedin.com/in/brian-jackson-8701a2a2/">Brian Jackson</a>
+      <h6>Amazon</h6>
     </div>
   </div>
 
@@ -515,31 +519,27 @@ description: "Website for the Workshop on 3D Vision and Modeling Challenges in e
     </div>
   </div>  
 
-</div>
-
-<div class="row text-center">
-
   <div class="col-xs-2">
-    <a href="https://paschalidoud.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/Despoina.jpg" | prepend:site.baseurl }}">
+    <a href="https://www.cs.sfu.ca/~haoz/">
+      <img class="people-pic" src="{{ "/static/img/people/hao.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://paschalidoud.github.io/">Despoina Paschalidou</a>
-      <h6>Stanford University</h6>
+      <a href="https://www.cs.sfu.ca/~haoz/">Hao (Richard) Zhang</a>
+      <h6>Simon Fraser University & Amazon</h6>
     </div>
   </div>
-
+  
   <div class="col-xs-2">
-    <a href="https://zouchuhang.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/chuhang.png" | prepend:site.baseurl }}">
+    <a href="https://xu-zhang-1987.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/xu.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://zouchuhang.github.io/">Chuhang Zou</a>
+      <a href="https://xu-zhang-1987.github.io/">Xu Zhang</a>
       <h6>Amazon</h6>
     </div>
   </div>
-
 </div>
+
 
 <!-- <hr>
 
