@@ -448,7 +448,9 @@ description: "Website for the Workshop on 3D Vision and Modeling Challenges in e
       <h6>Amazon</h6>
     </div>
   </div>
+</div>
 
+<div class="row text-center">
   <div class="col-xs-2">
     <a href="https://dritchie.github.io/">
       <img class="people-pic" src="{{ "/static/img/people/daniel.png" | prepend:site.baseurl }}">
@@ -508,7 +510,8 @@ description: "Website for the Workshop on 3D Vision and Modeling Challenges in e
       <h6>Meta</h6>
     </div>
   </div>
-
+</div>
+<div class="row text-center">
   <div class="col-xs-2">
     <a href="https://jianwang-cmu.github.io/">
       <img class="people-pic" src="{{ "/static/img/people/jian.jpeg" | prepend:site.baseurl }}">
