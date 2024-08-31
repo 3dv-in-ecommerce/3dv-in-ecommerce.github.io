@@ -14,6 +14,7 @@ description: "Website for the Workshop on 3D Vision and Modeling Challenges in e
 <br>
 <div class="row">
   <div class="col-xs-12">
+    <center><h2>Second Workshop on</h2></center>
     <center><h1>3D Vision and Modeling Challenges in eCommerce</h1></center>
     <center><h2>ECCV 2024 Workshop</h2></center>
     <center><span style="font-weight:400;">Sep 29, 2023 @ Milan, Italy</span></center>
@@ -570,6 +571,13 @@ description: "Website for the Workshop on 3D Vision and Modeling Challenges in e
     </div>
   </div>
 </div> -->
+
+<div class="row">
+  <div class="col-xs-12">
+    <h2>Prior workshops in this series</h2>
+    <a href="iccv2023">ICCV 2023: 3D Vision and Modeling Challenges in eCommerce</a><br/>
+  </div>
+</div>
 
 <br/>
 <br/>
