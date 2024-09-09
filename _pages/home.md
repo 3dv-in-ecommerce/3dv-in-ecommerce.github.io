@@ -17,7 +17,7 @@ description: "Website for the Workshop on 3D Vision and Modeling Challenges in e
     <center><h2>Second Workshop on</h2></center>
     <center><h1>3D Vision and Modeling Challenges in eCommerce</h1></center>
     <center><h2>ECCV 2024 Workshop</h2></center>
-    <center><span style="font-weight:400;">Sep 29, 2023 @ Milan, Italy</span></center>
+    <center><span style="font-weight:400;">Sep 29, 2024 @ Milan, Italy</span></center>
     <center><span style="font-weight:400;">Room TBD, MiCo Milano Convention Center</span></center>
     <center><span style="color:#e74c3c;font-weight:400;"></span></center>
     <br />
@@ -171,7 +171,7 @@ description: "Website for the Workshop on 3D Vision and Modeling Challenges in e
   <div class="col-md-12">
     <a href="https://people.eecs.berkeley.edu/~kanazawa/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/angjoo.jpg" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://people.eecs.berkeley.edu/~kanazawa/">Angjoo Kanazawa</a></b> Assistant Professor at UC Berkeley. Her research focuses on the visual perception of the dynamic 3D world behind everyday photographs and video. Previously, she was a research scientist at Google.
+      <b><a href="https://people.eecs.berkeley.edu/~kanazawa/">Angjoo Kanazawa</a></b> Assistant Professor at UC Berkeley. Her research focuses on the perception of the dynamic 3D world behind everyday photographs and video. Her lab is interested in developing methods that can learn a structured model of the world from visual observations. She also advises Luma AI.
     </p>
   </div>
 </div><br>
