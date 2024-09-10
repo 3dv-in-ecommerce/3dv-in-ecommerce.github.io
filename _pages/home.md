@@ -240,16 +240,6 @@ description: "Website for the Workshop on 3D Vision and Modeling Challenges in e
   </div>
 </div><br>
 
-<div class="row">
-  <div class="col-md-12">
-    <a href="https://varunjampani.github.io/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/varunjampani.jpeg" | prepend:site.baseurl }}"></a>
-    <p>
-      <b><a href="https://varunjampani.github.io/">Varun Jampani</a></b> Lead researcher at Stability AI. He is mainly interested in automatic 3D and 4D object understanding from image collections and videos by
-      leveraging both reconstruction and generation techniques. He has several works
-      on generative models for 3D scenes.
-    </p>
-  </div>
-</div><br>
 
 <!--<br>
 <div class="row" id="accepted">
