@@ -18,7 +18,7 @@ description: "Website for the Workshop on 3D Vision and Modeling Challenges in e
     <center><h1>3D Vision and Modeling Challenges in eCommerce</h1></center>
     <center><h2>ECCV 2024 Workshop</h2></center>
     <center><span style="font-weight:400;">Sep 29, 2024 @ Milan, Italy</span></center>
-    <center><span style="font-weight:400;">Room TBD, MiCo Milano Convention Center</span></center>
+    <center><span style="font-weight:400;">Room Brown 2, MiCo Milano Convention Center</span></center>
     <center><span style="color:#e74c3c;font-weight:400;"></span></center>
     <br />
   </div>
@@ -51,7 +51,7 @@ description: "Website for the Workshop on 3D Vision and Modeling Challenges in e
       This workshop aims to bring together researchers working on 3D computer vision and graphics for eCommerce, with a focus on the three topics: 
       (1) 3D shape/scene understanding and generation e.g. semantic segmentation, affordance and motion, multi-view reconstruction; 
       (2) Digital human and fashion e.g. virtual try-ons and personalized fashion recommendation;
-      (3) Foundation-model-assisted reasoning e.g. shape/scene synthesis from texts, language grounding in 3D models and diffusion-based 3D generative models. We successfully hosted the <a href="/iccv2023/">the first 3DV in eCommerce workshop at ICCV 2023</a> which was very well-received and inspiring to the audience. In this second workshop, we are inviting a fully new line of speakers including 6 keynote presentations from academia and 3 talks from industry experts. 
+      (3) Foundation-model-assisted reasoning e.g. shape/scene synthesis from texts, language grounding in 3D models and diffusion-based 3D generative models. We successfully hosted the <a href="/iccv2023/">the first 3DV in eCommerce workshop at ICCV 2023</a> which was very well-received and inspiring to the audience. In this second workshop, we are inviting a fully new line of speakers including 3 keynote presentations from academia and 3 talks from industry experts. 
      <!--This workshop aims to bring together researchers working on generative models of 3D shapes and scenes with researchers and practitioners who use these generative models in a variety of research areas. For our purposes, we define "generative model" to include methods that synthesize geometry unconditionally as well as from sensory inputs (e.g. images), language, or other high-level specifications. Vision tasks that can benefit from such models include scene classification and segmentation, 3D reconstruction, human activity recognition, robotic visual navigation, question answering, and more.-->
     </p>
   </div>
@@ -75,75 +75,42 @@ description: "Website for the Workshop on 3D Vision and Modeling Challenges in e
           <td></td>
         </tr>
         <tr>
-          <td>9:00am - 9:20am</td>
-          <td>Invited Talk 1</td>
+          <td>9:00am - 9:30am</td>
+          <td>Justus Thies</td>
           <td></td>
         </tr>
         <tr>
-          <td>9:20am - 9:40am</td>
-          <td>Invited Talk 2</td>
+          <td>9:30am - 10:00am</td>
+          <td>Chuang Gan</td>
           <td></td>
         </tr>
         <tr>
-          <td>9:40am - 9:50am</td>
-          <td>Break</td>
+          <td>10:00am - 10:30am</td>
+          <td>TBD</td>
           <td></td>
         </tr>
         <tr>
-          <td>9:50am - 10:10am</td>
-          <td>Invited Talk 3</td>
+          <td>10:30am - 11:00am</td>
+          <td>Coffee break</td>
+          <td></td>
+        </tr>
+        
+        <tr>
+          <td>11:00am - 11:30am</td>
+          <td>Angjoo Kanazawa</td>
           <td></td>
         </tr>
         <tr>
-          <td>10:10am - 10:30am</td>
-          <td>Invited Talk 4</td>
+          <td>11:30am - 12:00pm</td>
+          <td>Reza Shirvany</td>
           <td></td>
         </tr>
         <tr>
-          <td>10:30am - 10:40am</td>
-          <td>Break</td>
+          <td>12:00am - 12:30am</td>
+          <td>Zhao Dong</td>
           <td></td>
         </tr>
-        <tr>
-          <td>10:40am - 11:00am</td>
-          <td>Invited Talk 5</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>11:00am - 11:20am</td>
-          <td>Invited Talk 6</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>11:20am - 11:30am</td>
-          <td>Break</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>11:30am - 11:50am</td>
-          <td>Industry Talk 1</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>11:50am - 12:10pm</td>
-          <td>Industry Talk 2</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>12:10pm - 12:20pm</td>
-          <td>Break</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>12:20pm - 12:40pm</td>
-          <td>Industry Talk 3</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>12:40pm - 1:00pm</td>
-          <td>Industry Talk 4</td>
-          <td></td>
-        </tr>
+        
       </tbody>
     </table>
   </div>
@@ -156,7 +123,7 @@ description: "Website for the Workshop on 3D Vision and Modeling Challenges in e
   </div>
 </div><br>
 
-<div class="row">
+<!-- <div class="row">
   <div class="col-md-12">
     <a href="https://people.mpi-inf.mpg.de/~theobalt/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/Christian_Theobalt_stehend.jpg" | prepend:site.baseurl }}"></a>
     <p>
@@ -165,7 +132,7 @@ description: "Website for the Workshop on 3D Vision and Modeling Challenges in e
       simulate models of the real world at highest detail, robustness, and efficiency.
     </p>
   </div>
-</div><br>
+</div><br> -->
 
 <div class="row">
   <div class="col-md-12">
@@ -176,7 +143,7 @@ description: "Website for the Workshop on 3D Vision and Modeling Challenges in e
   </div>
 </div><br>
 
-<div class="row">
+<!-- <div class="row">
   <div class="col-md-12">
     <a href="https://www.irakemelmacher.com/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/Kemelmacher.jfif" | prepend:site.baseurl }}"></a>
     <p>
@@ -185,7 +152,7 @@ description: "Website for the Workshop on 3D Vision and Modeling Challenges in e
       a recent focus on apparel virtual try-on and 3D shoe spins.
     </p>
   </div>
-</div><br>
+</div><br> -->
 
 <div class="row">
   <div class="col-md-12">
@@ -197,7 +164,7 @@ description: "Website for the Workshop on 3D Vision and Modeling Challenges in e
   </div>
 </div><br>
 
-<div class="row">
+<!-- <div class="row">
   <div class="col-md-12">
     <a href="https://www.elor.sites.tau.ac.il/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/Hadar2022_JPG.webp" | prepend:site.baseurl }}"></a>
     <p>
@@ -205,7 +172,7 @@ description: "Website for the Workshop on 3D Vision and Modeling Challenges in e
       pixels with more structured modalities, such as natural language and 3D geometry, for generating multimodal representations that are better suited for handling the full complexity of the visual world.
     </p>
   </div>
-</div><br>
+</div><br> -->
 
 <div class="row">
   <div class="col-md-12">
@@ -244,7 +211,7 @@ description: "Website for the Workshop on 3D Vision and Modeling Challenges in e
   <div class="col-md-12">
     <a href="http://flycooler.com/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/zhao.jpg" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="http://flycooler.com/">Zhao Dong</a></b> is currently a Graphics Research Lead at Meta Reality Labs Research solving interesting computer graphics problems for AR/VR. His team at Meta is aimed at building next-gen human centric computing platform for AR/VR/Metaverse.
+      <b><a href="http://flycooler.com/">Zhao Dong</a></b> Graphics Research Lead at Meta Reality Labs. He leads a team at Meta on computer graphics, aiming at building next-gen human centric computing platform for AR/VR/Metaverse.
     </p>
   </div>
 </div><br>
@@ -440,7 +407,7 @@ description: "Website for the Workshop on 3D Vision and Modeling Challenges in e
 
   <div class="col-xs-2">
     <a href="https://zouchuhang.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/chuhang.png" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/chuhang.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://zouchuhang.github.io/">Chuhang Zou</a>
