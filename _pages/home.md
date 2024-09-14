@@ -240,6 +240,14 @@ description: "Website for the Workshop on 3D Vision and Modeling Challenges in e
   </div>
 </div><br>
 
+<div class="row">
+  <div class="col-md-12">
+    <a href="http://flycooler.com/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/zhao.jpg" | prepend:site.baseurl }}"></a>
+    <p>
+      <b><a href="http://flycooler.com/">Zhao Dong</a></b> is currently a Graphics Research Lead at Meta Reality Labs Research solving interesting computer graphics problems for AR/VR. His team at Meta is aimed at building next-gen human centric computing platform for AR/VR/Metaverse.
+    </p>
+  </div>
+</div><br>
 
 <!--<br>
 <div class="row" id="accepted">
