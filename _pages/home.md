@@ -106,7 +106,7 @@ description: "Website for the Workshop on 3D Vision and Modeling Challenges in e
           <td></td>
         </tr>
         <tr>
-          <td>12:00am - 12:30am</td>
+          <td>12:00pm - 12:30pm</td>
           <td>Zhao Dong</td>
           <td></td>
         </tr>
