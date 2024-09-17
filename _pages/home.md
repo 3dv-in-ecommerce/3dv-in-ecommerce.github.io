@@ -86,7 +86,7 @@ description: "Website for the Workshop on 3D Vision and Modeling Challenges in e
         </tr>
         <tr>
           <td>10:00am - 10:30am</td>
-          <td>TBD</td>
+          <td>Xavier Giró</td>
           <td></td>
         </tr>
         <tr>
@@ -187,11 +187,9 @@ description: "Website for the Workshop on 3D Vision and Modeling Challenges in e
 
 <div class="row">
   <div class="col-md-12">
-    <a href="https://www.linkedin.com/in/aleix-martinez-480110162/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/Aleix.jpg" | prepend:site.baseurl }}"></a>
+    <a href="https://imatge.upc.edu/web/people/xavier-giro"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/xavier.jpg" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://www.linkedin.com/in/aleix-martinez-480110162/">Aleix Martinez</a></b> Sr. Principal Scientist and Director of Amazon Science in Seattle and Barcelona. At Amazon, Aleix has led teams on strategic investments in GenAI, ML, CV and NLP. He brings in 25+ years of experience, delivering
-      some of the most consequential innovations of our generation. Prior to Amazon,
-      Aleix was a Full Professor at The Ohio State University.
+      <b><a href="https://imatge.upc.edu/web/people/xavier-giro">Xavier Giró</a></b> Applied Scientist at Amazon Barcelona. Until 2022, he was an associate professor at the Universitat Politecnica de Catalunya (UPC) in Barcelona,
     </p>
   </div>
 </div><br>
