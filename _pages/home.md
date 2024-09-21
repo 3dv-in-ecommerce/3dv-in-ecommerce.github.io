@@ -71,17 +71,20 @@ description: "Website for the Workshop on 3D Vision and Modeling Challenges in e
       <tbody>
         <tr>
           <td>8:50am - 9:00am</td>
-          <td>Welcome and Introduction</td>
+          <td>Welcome and introduction</td>
           <td></td>
         </tr>
         <tr>
           <td>9:00am - 9:30am</td>
-          <td>Justus Thies</td>
+          <td>Justus Thies
+          <br/>
+          <i>Title: Multi-modal 3D Human Analysis and Synthesis</i>
+          </td>
           <td></td>
         </tr>
         <tr>
           <td>9:30am - 10:00am</td>
-          <td>Chuang Gan</td>
+          <td>Zhao Dong</td>
           <td></td>
         </tr>
         <tr>
@@ -94,7 +97,6 @@ description: "Website for the Workshop on 3D Vision and Modeling Challenges in e
           <td>Coffee break</td>
           <td></td>
         </tr>
-        
         <tr>
           <td>11:00am - 11:30am</td>
           <td>Angjoo Kanazawa</td>
@@ -107,10 +109,9 @@ description: "Website for the Workshop on 3D Vision and Modeling Challenges in e
         </tr>
         <tr>
           <td>12:00pm - 12:30pm</td>
-          <td>Zhao Dong</td>
+          <td>Chuang Gan</td>
           <td></td>
         </tr>
-        
       </tbody>
     </table>
   </div>
