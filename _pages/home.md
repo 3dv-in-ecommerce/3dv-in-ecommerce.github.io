@@ -70,12 +70,12 @@ description: "Website for the Workshop on 3D Vision and Modeling Challenges in e
      <table class="table table-striped">
       <tbody>
         <tr>
-          <td>8:50am - 9:00am</td>
+          <td>9:00am - 9:05am</td>
           <td>Welcome and introduction</td>
           <td></td>
         </tr>
         <tr>
-          <td>9:00am - 9:30am</td>
+          <td>9:05am - 9:35am</td>
           <td>Justus Thies
           <br/>
           <i>Title: Multi-modal 3D Human Analysis and Synthesis</i>
@@ -83,17 +83,20 @@ description: "Website for the Workshop on 3D Vision and Modeling Challenges in e
           <td></td>
         </tr>
         <tr>
-          <td>9:30am - 10:00am</td>
+          <td>9:35am - 10:05am</td>
           <td>Zhao Dong</td>
           <td></td>
         </tr>
         <tr>
-          <td>10:00am - 10:30am</td>
-          <td>Xavier Giró</td>
+          <td>10:05am - 10:35am</td>
+          <td>Xavier Giró
+          <br/>
+          <i>Title: Image Generation at Scale</i>
+          </td>
           <td></td>
         </tr>
         <tr>
-          <td>10:30am - 11:00am</td>
+          <td>10:35am - 11:00am</td>
           <td>Coffee break</td>
           <td></td>
         </tr>
@@ -190,7 +193,7 @@ description: "Website for the Workshop on 3D Vision and Modeling Challenges in e
   <div class="col-md-12">
     <a href="https://imatge.upc.edu/web/people/xavier-giro"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/xavier.jpg" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://imatge.upc.edu/web/people/xavier-giro">Xavier Giró</a></b> Applied Scientist at Amazon Barcelona. Until 2022, he was an associate professor at the Universitat Politecnica de Catalunya (UPC) in Barcelona,
+      <b><a href="https://imatge.upc.edu/web/people/xavier-giro">Xavier Giró</a></b> Applied Scientist at Amazon Barcelona, in the team lead by Aleix Martinez and Francesc Moreno-Noguer. Before joining Amazon, he was an associate professor at the Universitat Politecnica de Catalunya (UPC), also in Barcelona. His current research interests focus on image generation, and their automatic quality assessment.
     </p>
   </div>
 </div><br>
