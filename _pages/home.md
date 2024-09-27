@@ -200,7 +200,7 @@ description: "Website for the Workshop on 3D Vision and Modeling Challenges in e
 
 <div class="row">
   <div class="col-md-12">
-    <a href="https://scholar.google.com/citations?user=Y9YnFoUAAAAJ&hl=en/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/Reza_Shirvany.jfif" | prepend:site.baseurl }}"></a>
+    <a href="https://scholar.google.com/citations?user=Y9YnFoUAAAAJ&hl=en/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/reza.jpg" | prepend:site.baseurl }}"></a>
     <p>
       <b><a href="https://scholar.google.com/citations?user=Y9YnFoUAAAAJ&hl=en/">Reza Shirvany</a></b> Director of Applied Science at Zalando, leading a multi-disciplinary 
       team of applied scientists that develop customer facing AI driven
