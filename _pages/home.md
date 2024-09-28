@@ -110,7 +110,10 @@ description: "Website for the Workshop on 3D Vision and Modeling Challenges in e
         </tr>
         <tr>
           <td>11:30am - 12:00pm</td>
-          <td>Reza Shirvany</td>
+          <td>Reza Shirvany
+          <br/>
+          <i>Title: Reshaping Fashion: 3D and Generative AI Solutions for Perfect Size and Fit</i>
+          </td>
           <td></td>
         </tr>
         <tr>
