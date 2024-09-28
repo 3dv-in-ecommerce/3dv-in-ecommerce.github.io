@@ -102,7 +102,10 @@ description: "Website for the Workshop on 3D Vision and Modeling Challenges in e
         </tr>
         <tr>
           <td>11:00am - 11:30am</td>
-          <td>Angjoo Kanazawa</td>
+          <td>Angjoo Kanazawa
+          <br/>
+          <i>Title: Scaling 3D Capture and Latest Updates on nerfstudio/gsplat</i>
+          </td>
           <td></td>
         </tr>
         <tr>
