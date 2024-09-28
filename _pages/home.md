@@ -84,7 +84,10 @@ description: "Website for the Workshop on 3D Vision and Modeling Challenges in e
         </tr>
         <tr>
           <td>9:35am - 10:05am</td>
-          <td>Zhao Dong</td>
+          <td>Zhao Dong
+          <br/>
+          <i>Title: Democratizing Digital Twins: Path to Frictionless 3D Digital Twin Creation for Everyone</i>
+          </td>
           <td></td>
         </tr>
         <tr>
