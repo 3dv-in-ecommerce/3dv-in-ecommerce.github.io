@@ -121,7 +121,10 @@ description: "Website for the Workshop on 3D Vision and Modeling Challenges in e
         </tr>
         <tr>
           <td>12:00pm - 12:30pm</td>
-          <td>Chuang Gan</td>
+          <td>Chuang Gan
+          <br/>
+          <i>Title: Building 3D World Models for Embodied General Intelligence</i>
+          </td>
           <td></td>
         </tr>
       </tbody>
